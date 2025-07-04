@@ -4,7 +4,7 @@ A Playground for Neural Networks, written in C++ , almost the same as the [Tenso
 
 <img src="docs/res/screenshots/0.png" alt="Screenshot number 1">
 <img src="docs/res/screenshots/1.png" alt="Screenshot number 2">
-<img src="docs/res/screenshots/3.png" alt="Screenshot number 3">
+<img src="docs/res/screenshots/2.png" alt="Screenshot number 3">
 
 ## How to build
 
