@@ -2,6 +2,10 @@
 
 A Playground for Neural Networks, written in C++ , almost the same as the [Tensorflow](https://github.com/tensorflow/playground) one, maybe mine is worse :) as its a port.
 
+<img src="docs/res/screenshots/0.png" alt="Screenshot number 1">
+<img src="docs/res/screenshots/1.png" alt="Screenshot number 2">
+<img src="docs/res/screenshots/3.png" alt="Screenshot number 3">
+
 ## How to build
 
 Make sure inside vendor folder you add
