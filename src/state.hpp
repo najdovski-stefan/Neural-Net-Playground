@@ -50,7 +50,7 @@ struct State {
     Problem problem = Problem::CLASSIFICATION;
 
     bool initZero = false;
-    bool collectStats = false;j
+    bool collectStats = false;
 
     int numHiddenLayers = 1;
     std::vector<int> networkShape = {4, 2};
