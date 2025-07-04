@@ -1,6 +1,6 @@
 # Neural Network Playground
 
-A Playground for Neural Networks, written in C++ , almost the same as the [Tensorflow](https://github.com/tensorflow/playground) one, maybe mine is worse :) as its a port.
+A Playground for Neural Networks I wrote during a recreational programming sesh,it is written in C++ , almost the same as the [Tensorflow](https://github.com/tensorflow/playground) implementation, maybe **mine** is worse :) as its a port, it probably has bugs so I wouldnt relly on it 100% for learning.
 
 <img src="docs/res/screenshots/0.png" alt="Screenshot number 1">
 <img src="docs/res/screenshots/1.png" alt="Screenshot number 2">
@@ -31,6 +31,14 @@ make
 - Network Graph might display incorrect color activation between nodes (TODO)
 - a lot more (probably).
 
+## Goal of the project:
+- What does "AI" want to "solve".
+- How does a Neural Network "learn".
+
 ## References:
 
 - [Tensorflow Playground](https://github.com/tensorflow/playground)
+- [imgui](https://github.com/ocornut/imgui).
+- [implot](https://github.com/epezent/implot).
+- [glad](https://glad.dav1d.de/).
+- [glfw](https://www.glfw.org/).
