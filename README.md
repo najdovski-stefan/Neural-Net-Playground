@@ -15,6 +15,8 @@ imgui and implot dependencies
 
 (tested on macOS Sequia, should work on Linux as well)
 
+#### NOTE for Linux: modify my hacky cmake to build, glad path!
+
 ```bash
 mkdir build
 cd build
