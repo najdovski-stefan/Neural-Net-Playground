@@ -1,15 +1,27 @@
 # Neural Network Playground
 
-A toy Playground for Neural Networks, written in C++ , almost the same as the [Tensorflow](https://github.com/tensorflow/playground) one, maybe mine is worse :)
+A Playground for Neural Networks, written in C++ , almost the same as the [Tensorflow](https://github.com/tensorflow/playground) one, maybe mine is worse :) as its a port.
 
 ## How to build
 
 Make sure inside vendor folder you add
 imgui and implot dependencies
 
-```bash
-```
+### Build instructions on any *nix os
 
+(tested on macOS Sequia, should work on Linux as well)
+
+```bash
+mkdir build
+cd build
+cmake ..
+make
+```
+## Known Issues:
+
+- Scaling
+- Network Graph might display incorrect color activation between nodes (TODO)
+- a lot more (probably).
 
 ## References:
 
